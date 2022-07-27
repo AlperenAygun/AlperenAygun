@@ -10,4 +10,6 @@
 
 -Trying to learn Flutter too...
 
--I hope I am going to learn
+-I hope I am going to learn =)
+
+UPDATE(27/07/2022): I started a flutter project in my company that I doing intership.
