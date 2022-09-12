@@ -14,4 +14,4 @@ UPDATE(18/08/2022): I finished that project and sent it to the test department.
 
 UPDATE(29/08/2022): I started my second internship.
 
-- I am going to create project in Flutter with using elasticsearch.
+- I am going to create project in Flutter with using elasticsearch in that internship.
