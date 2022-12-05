@@ -6,8 +6,6 @@
 
 -Computer Engineering Department
 
--Was doing Internship
-
 -Trying to learn Flutter/Dart.
 
 UPDATE(27/07/2022): I started a flutter project in my company that I doing intership.
