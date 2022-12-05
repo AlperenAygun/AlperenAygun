@@ -1,10 +1,12 @@
 # Alperen AYGÜN
 
+-Jr. Mobile Application Developer(with Flutter/Dart) at Vega Yazılım
+
 -Was student at Eskişehir Osmangazi University
 
 -Computer Engineering Department
 
--Now doing Internship
+-Was doing Internship
 
 -Trying to learn Flutter/Dart.
 
