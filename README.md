@@ -6,4 +6,4 @@
 
 - Developing apps with Flutter, ASP.Net Core
 
-- Somnetimes trying Go and Swift
+- Sometimes trying Go and Swift
