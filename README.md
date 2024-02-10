@@ -4,4 +4,6 @@
 
 - Graduated from Computer Engineering.
 
-- Developing apps with Flutter,Dart,Swift and Go.
+- Developing apps with Flutter, ASP.Net Core
+
+- Somnetimes trying Go and Swift
